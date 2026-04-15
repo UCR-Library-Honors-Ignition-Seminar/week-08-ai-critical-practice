@@ -36,11 +36,10 @@ Write a **~300-word reflection** using the [reflection template](reflection-temp
 
 ## Submission Instructions
 
-1. Create a `week-08/` folder in your GitHub Classroom repo
-2. Add `experiment-notes.md`
-3. Add any creative artifact (text file, exported conversation, etc.) or note in `links.md`
-4. Create `week-08/reflection.md`
-5. Commit and submit repo URL on Canvas
+1. Add `experiment-notes.md`
+2. Add any creative artifact (text file, exported conversation, etc.) or note in `links.md`
+3. Create `reflection.md`
+4. Commit and submit repo URL on Canvas
 
 ---
 
