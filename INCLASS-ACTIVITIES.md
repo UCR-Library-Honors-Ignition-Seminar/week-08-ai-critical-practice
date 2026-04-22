@@ -37,28 +37,30 @@ In your notes, write down one observation per prompt: what was different between
 
 ### Part 3: Build a Single-Page Website with AI (~30 min)
 
-You will use AI — local and cloud — to write a simple HTML page related to something you made this semester. You do not need to know any HTML.
+You will use AI — local and cloud — to write a simple HTML page about something you made this semester. The page is text and styling only — no libraries, no embeds, nothing that requires setup. You do not need to know any HTML.
 
 **Step 1: Decide what your page is about**
 
-Pick something from Weeks 5–7:
-- Your Twine story or Tracery grammar
-- Your p5.js sketch or Bitsy game
-- Your Teachable Machine experiment
+Think of one project or experiment from this semester and what you want to say about it. The page will describe it in text — not display or run it. Some ideas:
+
+- A page about what you discovered when training your Teachable Machine model
+- A page describing the story or world in your Bitsy game or Twine story
+- A page reflecting on what surprised you about generative text in Tracery
 
 **Step 2: Write a prompt describing what you want**
 
 Copy and paste this template into your local model, filling in the brackets:
 
 ```
-I am a student in a course about creative coding and AI.
-I made [describe your project in one sentence].
-Please write me a complete, self-contained HTML file for a simple one-page website that:
-- Has a title: [your title]
-- Has a short description: [2-3 sentences about what you made]
-- Has a section called "How I made it" with [2-3 things you want to say]
-- Uses basic CSS styling — clean, readable, your choice of colors
-Write the full HTML so I can paste it directly into a browser.
+Please write me a complete, self-contained HTML file for a simple one-page website.
+Use only HTML and CSS — no JavaScript, no external libraries, no links to other files.
+The page should:
+- Have a title: [your title]
+- Have a short introduction: [2-3 sentences describing what this page is about]
+- Have a section called "What I made": [describe your project in a few sentences]
+- Have a section called "What I noticed": [1-2 things that surprised you or that you want to say]
+- Use clean, readable CSS styling — your choice of colors and fonts
+The file must work when pasted directly into a browser with no additional files.
 ```
 
 **Step 3: Test the output**
