@@ -16,13 +16,15 @@
 
 ## Introduction: Who Owns the Tool?
 
-Every AI tool you've used so far — Teachable Machine, ChatGPT, Claude — runs on someone else's computer. You send a request; a server somewhere processes it; a result comes back. You don't see the model weights (numerical parameters learned during training that determine an AI's decision-making). If the company shuts down, the tool disappears.
+Every AI tool you've used so far — Teachable Machine, ChatGPT, Claude — runs on someone else's computer. You send a request; a server somewhere processes it; a result comes back. You don't see the model weights. If the company shuts down, the tool disappears.
 
 Running an AI locally is different. The model lives on your machine. You don't need internet. You can run it at 3am without anyone logging your prompts. The tool is, in a specific and meaningful way, **yours**.
 
 ---
 
 ## Session 1 (Day 1): Setting Up a Local LLM
+
+> **Installation guide:** [INSTRUCTIONS-LOCAL-AI.md](INSTRUCTIONS-LOCAL-AI.md) | **In-class activity:** [INCLASS-ACTIVITIES.md](INCLASS-ACTIVITIES.md)
 
 ### Ollama (recommended — free, Mac & Windows)
 1. Go to [ollama.com](https://ollama.com) > Download for your OS
@@ -51,6 +53,8 @@ Document in a Markdown file: What felt different? Did outputs differ? How did yo
 ---
 
 ## Session 2 (Day 2): Critics Session
+
+> **In-class activity:** [INCLASS-ACTIVITIES.md](INCLASS-ACTIVITIES.md)
 
 This is a structured conversation, not a lecture.
 
