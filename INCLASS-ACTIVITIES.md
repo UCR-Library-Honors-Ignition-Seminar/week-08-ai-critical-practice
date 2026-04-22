@@ -102,7 +102,7 @@ Use whatever came up in the shares as a starting point. Some threads to pull on 
 
 - This semester you used tools made by Google, ml5 contributors, Twine developers, and now a model running on your own machine. How did the experience of each feel different — did ownership or control change how you used the tool?
 - When you prompted the local model and the cloud model with the same question, you got different answers. Both are "AI." What does that difference reveal about what these tools actually are?
-- Is there a difference between using AI as a tool (it does a task) and using AI as a material (it shapes what you make)? Did you cross that line at any point this semester?
+- What are some different ways of using AI? Would you use AI differently for different tasks (think about coding, writing, image/video generation tasks)?
 - What would you want a future student in this course to know before Week 1?
 
 ---
