@@ -16,7 +16,7 @@
 
 ## Introduction: Who Owns the Tool?
 
-Every AI tool you've used so far — Teachable Machine, ChatGPT, Claude — runs on someone else's computer. You send a request; a server somewhere processes it; a result comes back. You don't see the model weights. If the company shuts down, the tool disappears.
+Every AI tool you've used so far — Teachable Machine, ChatGPT, Claude — runs on someone else's computer. You send a request; a server somewhere processes it; a result comes back. You don't see the model weights (numerical parameters learned during training that determine an AI's decision-making). If the company shuts down, the tool disappears.
 
 Running an AI locally is different. The model lives on your machine. You don't need internet. You can run it at 3am without anyone logging your prompts. The tool is, in a specific and meaningful way, **yours**.
 
