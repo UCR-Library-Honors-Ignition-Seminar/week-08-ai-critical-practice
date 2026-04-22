@@ -98,10 +98,16 @@ LM Studio is a desktop application with a graphical interface — no Terminal ne
 
 ### Step 2: Download a Model
 
+We will use the same model as Ollama — **Llama 3.2 3B** — which is about 2 GB and runs on most laptops. Avoid other Llama models in the search results; many are 40+ GB and will not run on a standard laptop.
+
 1. Click the **Search** icon (magnifying glass) in the left sidebar
-2. In the search bar, type `llama`
-3. Look for a result tagged **"Recommended"** or with a green badge — these are optimized for your hardware
-4. Click **Download** next to one of them (the smaller the file size, the faster it downloads)
+2. In the search bar, type exactly:
+   ```
+   llama3.2-3b-instruct
+   ```
+3. Look for the result called **Llama-3.2-3B-Instruct-GGUF** by **lmstudio-community**
+4. Click it to open the model page — confirm the file size shown is around **2 GB** before downloading
+5. Click **Download**
 
 ### Step 3: Start Chatting
 
