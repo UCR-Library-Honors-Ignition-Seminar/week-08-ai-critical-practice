@@ -1,36 +1,54 @@
-# Weekly Critical Reflection — Week [X]
+# Weekly Critical Reflection — Week 8
 
 **Name:** ___________________________
-**Week:** ___________________________
+**Week:** 8 — Local AI & Critical Practice
 **Date:** ___________________________
 
 ---
 
 ## 1. What I Made
 
-*Describe your project or artifact in 2-3 sentences. What is it? What does it do?*
+*Describe your local AI experiment in 2-3 sentences. What did you run, and what did you make or generate with it?*
 
 ---
 
-## 2. Process & Decisions
+## 2. Local AI Log
 
-*In 5-6 sentences: What creative and technical choices did you make this week? What surprised you in the process? What did you try that did not work?*
+*Fill in each answer in a few sentences.*
+
+**Which local model did you run?**
+(Model name and version — e.g., Llama 3.2 via Ollama)
+
+**Which cloud model did you compare to?**
+(e.g., Claude, ChatGPT, Gemini)
+
+**What felt different about using the local model?**
+(Speed, tone, interface, sense of control, something else?)
+
+**Give one example where the outputs differed.**
+(Same prompt, different responses — what changed, and why do you think it changed?)
+
+**What surprised you?**
 
 ---
 
-## 3. Critical Prompt Response
+## 3. Process & Decisions
 
-*This is the heart of your reflection. Respond to the week's specific prompt below.*
-
-> **[Replace this with the week's prompt — found in ASSIGNMENT.md]**
-
-*Your response (~150-200 words):*
+*In 5-6 sentences: What creative and technical choices did you make? What was the Three Prompts exercise like — what changed between treating the model as a tool, a collaborator, and a subject? What did you try that did not work?*
 
 ---
 
-## 4. Personal Connection
+## 4. Critical Prompt Response
 
-*In 2-3 sentences: How does this week's tool or technique connect to your major, creative practice, or personal interests? Where might you use this again?*
+*Respond to this week's prompt (~150-200 words):*
+
+> **What changes when you run an AI on your own computer vs. accessing one through a browser? Who controls the tool — and does that change how you use it or trust it?**
+
+---
+
+## 5. Personal Connection
+
+*In 2-3 sentences: How does the question of AI ownership or control connect to your major, creative practice, or personal interests? Where might this matter in your field?*
 
 ---
 
