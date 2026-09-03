@@ -1,0 +1,166 @@
+---
+title: "Local AI & Critical Practice"
+subtitle: "Session 2 — Critique & Final Project Kickoff"
+---
+
+## Today is different {.center}
+
+No slides to lecture from. No demo.
+
+. . .
+
+A **critique**: we look at each other's work and ask better questions about it.
+
+## Work as inquiry, not delivery {.smaller}
+
+Most classes: you hand in a finished thing, it gets a grade.
+
+. . .
+
+Today: your work is treated as a **question in progress**.
+
+- not "is it done?"
+- but "what is it *asking*?"
+
+. . .
+
+That's how artists and researchers actually talk about work.
+
+## What you brought {.smaller}
+
+Each person shares **two things**:
+
+1. One piece of semester work that sits in **uncertainty** —
+   something you're not sure *worked*, or not sure *what it means*
+2. One **open question** the work raises —
+   phrased so it can't be answered with yes/no
+
+## Critique norms {.smaller}
+
+- **Describe before you judge** — say what you actually see/read/hear first
+- **Questions over verdicts** — "what happens if…" beats "I liked / didn't like"
+- **The maker listens first** — don't defend; take notes, respond at the end
+- **Be specific** — "the second room" not "the vibe"
+
+# Critique rounds {background-color="#003da5"}
+
+Small groups, then full class
+
+## Round structure
+
+Per person *(scale to group size)*:
+
+- **2 min** — maker shares the work + the open question
+- **3 min** — group responds: describe, then wonder aloud
+- **1 min** — maker responds: what landed, what they'll try
+
+. . .
+
+Rotate. Everyone shares once.
+
+## Discussion anchors {.smaller}
+
+Pull one in when a critique stalls:
+
+- **"Using" vs "making with"** — was the tool an instrument, or a collaborator you argued with?
+- **Authorship** — when a system generated part of it, whose work is it?
+- **Local vs service** — would running it on your own machine change what the piece *means*?
+
+## Exercise — one question, not one answer {background-color="#ffb81c"}
+
+*Individual · 5 min, then share*
+
+Write the single **open question** your semester work generates.
+
+. . .
+
+Test it: if someone could answer it in one sentence, it's too small. Rewrite.
+
+# Final Project {background-color="#003da5"}
+
+Kickoff · planning starts now
+
+## The one requirement
+
+Your Final Project must **combine at least two competencies** from Weeks 1–8.
+
+. . .
+
+Not two tools used side by side — two that **need each other** for the piece to work.
+
+## The competency menu {.smaller}
+
+| Week | You can now… |
+|---|---|
+| 1 · Design & Textiles | design and fabricate soft/physical objects |
+| 2 · Circuits & Animatronics | wire sensors and actuators to behavior |
+| 3 · 3D Printing | model and print physical parts |
+| 4 · Animation & VFX | build motion and composited image |
+| 5 · Writing as Code | branching + generative text systems |
+| 6 · Creative Code | generative visuals (p5.js), game-space (Bitsy) |
+| 7 · Machine Learning | train / deploy a model as creative material |
+| 8 · Local AI | run and interrogate a model you control |
+
+## Example combinations
+
+- **Gesture control + ML** — PoseNet drives a physical animatronic
+- **Interactive fiction + generative graphics** — Twine branches that render p5.js scenes
+- **Physical + digital** — a 3D-printed object that speaks lines from a local LLM
+- **Textiles + circuits** — a wearable that responds to a sensor
+
+## Exercise — project one-liner {background-color="#ffb81c"}
+
+*Individual · 10 min*
+
+Write:
+
+1. Your project **in one sentence**
+2. The **two competencies** it combines — and why it needs both
+3. The **first file or part** you'll make
+
+## Pair and pitch
+
+*Pairs · 10 min*
+
+Pitch your one-liner. Your partner asks:
+
+- Which competency is doing the **heavy lifting**?
+- What's the **smallest version** you could build first?
+
+## What to bring to Week 9
+
+- An **idea** you can say out loud
+- **Started files** — a sketch, a doc, a wired breadboard, *something*
+
+. . .
+
+Week 9 is a work session, not a start-from-zero session.
+
+## Assignment recap — Week 8
+
+- **Local AI Log** — 5 experimental questions answered
+- **Three-prompt exercise** — local vs cloud, compared
+- **A creative artifact** — text, conversation export, or HTML page
+- **`reflection.md`** — ~300 words, 5 sections
+
+## Reflection prompt
+
+> What changes when you run an AI on your own computer vs. accessing one through a browser? Who controls the tool — and does that change how you use it or trust it?
+
+Consider: privacy · connectivity · speed · model size · who sets the content rules.
+
+## The whole seminar, one line {.center}
+
+You learned to **make with** these tools
+
+by understanding **how they're built**.
+
+. . .
+
+That's the difference between a user and a maker.
+
+# Thank you {background-color="#003da5"}
+
+**Jing Han** · Digital Scholarship Librarian · UCR eScholarship Liaison
+
+<jingh@ucr.edu>

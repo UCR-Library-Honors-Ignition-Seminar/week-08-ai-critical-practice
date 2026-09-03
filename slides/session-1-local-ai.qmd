@@ -1,0 +1,145 @@
+---
+title: "Local AI & Critical Practice"
+subtitle: "Session 1 — Running a Model on Your Own Machine"
+---
+
+## Opening line {.center}
+
+> The model lives on your machine.
+> You don't need internet.
+
+. . .
+
+Everything changes from there.
+
+## Where the models lived {.smaller}
+
+Teachable Machine · ChatGPT · Claude —
+
+. . .
+
+- ran on **someone else's servers**
+- required an **account** and a **connection**
+- **logged** every interaction
+- could change or disappear without you
+
+. . .
+
+Local deployment flips all four.
+
+## What actually changes {.smaller}
+
+| | Cloud | Local |
+|---|---|---|
+| Your prompts | sent to a company | stay on your disk |
+| Internet | required | not needed |
+| Who moderates | the provider | you |
+| Model size | huge | smaller, older |
+| Cost | metered / gated | free after download |
+
+. . .
+
+You trade capability for **control**. Today you feel that trade.
+
+## Today {.smaller}
+
+1. **Install** Ollama (or LM Studio) — 15 min
+2. **The three-prompt method** — 5 min
+3. **Run** all three on local *and* cloud — 30 min
+4. **Discuss** the difference — 15 min
+5. **Framing** + Final Project preview — 10 min
+6. **Exit ticket** — 5 min
+
+# Setup {background-color="#003da5"}
+
+Get a model running locally · 15 minutes
+
+## Install Ollama
+
+Free · macOS, Windows, Linux
+
+1. Download from <ollama.com>
+2. Open **Terminal** / **Command Prompt**
+3. Run: `ollama run llama3.2`
+4. Wait for the download — **1–4 GB, one time**
+5. Type a message
+
+. . .
+
+**No terminal?** <lmstudio.ai> — same idea, full graphical app.
+
+## The three-prompt method
+
+Give the **same** prompt to a local model **and** a cloud model. Three kinds:
+
+. . .
+
+- **Tool** — "do this specific task" *(summarize, reformat, extract)*
+- **Collaborator** — "let's think through this together" *(open-ended, creative)*
+- **Subject** — "what are you? what can't you do?" *(about the model itself)*
+
+## Exercise — local vs cloud {background-color="#ffb81c"}
+
+*Individual · 30 min*
+
+Run all **three** prompts on:
+
+- your **local** model (llama3.2)
+- **one cloud** model (Claude, ChatGPT, or Gemini)
+
+. . .
+
+Keep the wording **identical**. For each, note:
+**output quality · how the interaction felt · your sense of the relationship**
+
+## Discuss — pairs → class
+
+*15 min*
+
+1. Where was **local** better? Where was it clearly worse?
+2. Knowing **no company was logging it** — did you ask the local model anything different?
+3. The local model is smaller and older. What did you give up? Was it worth it?
+
+## Framing — *A People's Guide to AI*
+
+Mimi Onuoha & Mother Cyborg — <alliedmedia.org>
+
+. . .
+
+Reframes AI from *"what can it do"* to
+*"who builds it, who profits, who is described by it, who is left out."*
+
+. . .
+
+Bring that lens to Thursday's critique.
+
+## Bridge to Session 2
+
+Thursday: **no lecture.** A critique session.
+
+. . .
+
+Bring:
+
+- one piece of your semester work that sits in **uncertainty**
+- one **open question** it raises — not one it answers
+
+. . .
+
+And a first sketch of your **Final Project** idea.
+
+## Before you go
+
+**Exit ticket** — one sentence:
+
+> Who controls the tool when it runs on your laptop — and does that change how much you trust it?
+
+. . .
+
+**Assignment:** the Local AI Log + three-prompt comparison + a creative artifact + `reflection.md`.
+
+# Thank you {background-color="#003da5"}
+
+**Jing Han** · Digital Scholarship Librarian · UCR eScholarship Liaison
+
+<jingh@ucr.edu>
