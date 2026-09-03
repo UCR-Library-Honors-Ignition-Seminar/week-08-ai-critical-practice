@@ -2,7 +2,7 @@
 
 **Instructor:** Jing
 
-**Slides:** [**View the decks**](https://ucr-library-honors-ignition-seminar.github.io/week-08-ai-critical-practice/) · [source](slides/)
+**Slides:** [View the decks](https://ucr-library-honors-ignition-seminar.github.io/week-08-ai-critical-practice/)
 
 ---
 
