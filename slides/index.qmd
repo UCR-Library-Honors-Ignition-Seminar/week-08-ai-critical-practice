@@ -1,0 +1,16 @@
+---
+title: "Week 8: Local AI & Critical Practice — Slides"
+format:
+  html:
+    theme: cosmo
+    page-layout: article
+---
+
+Presentation decks for both class sessions. Open in a browser; use arrow keys, `S` for speaker view, `F` for fullscreen.
+
+- [Session 1 — Running a Model on Your Own Machine](session-1-local-ai.html)
+- [Session 2 — Critique & Final Project Kickoff](session-2-critique-final-project.html)
+
+---
+
+Source: [`slides/`](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-08-ai-critical-practice/tree/main/slides) · rendered with [Quarto](https://quarto.org).
